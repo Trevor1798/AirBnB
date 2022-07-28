@@ -5,9 +5,9 @@
 ![](AirBnb-Schema.PNG)
 
 ## ASSOCIATIONS
-//User has many Bookings, Spots, Reviews
-//Spots has many Bookings, Reviews, Images
-//Review has many Images
+//User hasMany Bookings, Spots, Reviews
+//Spots hasMany Bookings, Reviews, Images
+//Review hasMany Images
 //Spots[previewImage] hasMany urls
 ## API Documentation
 //Dev-input: The response helped me understand what the request was looking for, but I'm not too confident on the naming conventions I
